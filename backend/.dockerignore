@@ -1,0 +1,11 @@
+# Does not work with bind-mount volumes
+node_modules
+vendor
+.env
+.git
+.git*
+phpunit*
+.editorconfig
+tests
+Dockerfile
+.dockerignore
